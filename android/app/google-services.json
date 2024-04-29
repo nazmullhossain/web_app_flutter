@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645591083879",
+    "project_id": "kodar-58d3a",
+    "storage_bucket": "kodar-58d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645591083879:android:09444231304dc0591a1dc2",
+        "android_client_info": {
+          "package_name": "com.example.web_ksa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZpxczgqCMtJthKM0zpEVSjS1b0vdJpw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
